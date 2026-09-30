@@ -1,373 +1,478 @@
-Mozilla Public License Version 2.0
-==================================
-
-1. Definitions
---------------
-
-1.1. "Contributor"
-    means each individual or legal entity that creates, contributes to
-    the creation of, or owns Covered Software.
-
-1.2. "Contributor Version"
-    means the combination of the Contributions of others (if any) used
-    by a Contributor and that particular Contributor's Contribution.
-
-1.3. "Contribution"
-    means Covered Software of a particular Contributor.
-
-1.4. "Covered Software"
-    means Source Code Form to which the initial Contributor has attached
-    the notice in Exhibit A, the Executable Form of such Source Code
-    Form, and Modifications of such Source Code Form, in each case
-    including portions thereof.
-
-1.5. "Incompatible With Secondary Licenses"
-    means
-
-    (a) that the initial Contributor has attached the notice described
-        in Exhibit B to the Covered Software; or
+CUSTOM ROYALTY LICENSE AGREEMENT
+Version 1.0
+Effective Date: September 30, 2026
+
+Original Creator: 2c9jj9rmgj-code
+Software: Dune-Comeback-gold-digger-2 (and all associated code, documentation, and assets)
+
+================================================================================
+1. DEFINITIONS
+================================================================================
+
+1.1 "Software" means the original software code, documentation, designs, assets,
+    and all modifications, derivative works, and updates created by the Original
+    Creator, including all versions, branches, and compiled forms.
+
+1.2 "Commercial Use" means any use of the Software, in whole or in part, that
+    results in direct or indirect revenue generation, including but not limited to:
+    - Selling products or services containing or derived from the Software
+    - Using the Software in AI/ML models that are monetized or commercialized
+    - Offering the Software as part of a Platform-as-a-Service (PaaS)
+    - Using the Software in Infrastructure-as-a-Service (IaaS)
+    - Incorporating the Software into proprietary products sold for profit
+    - Using the Software to provide paid services or consulting
+    - Any closed-source or proprietary use of the Software
+    - Using the Software in any business model that generates revenue
+
+1.3 "Non-Commercial Use" means use of the Software that does not directly or
+    indirectly generate revenue, including personal projects, educational use,
+    and hobby projects.
+
+1.4 "Open-Source Project" means a project that:
+    - Is distributed under an OSI-approved open-source license (MIT, Apache 2.0,
+      GPL, AGPL, LGPL, BSD, ISC, or equivalent)
+    - Has publicly available source code
+    - Allows others to view, modify, and distribute the code
+    - Is not part of a commercial enterprise or revenue-generating operation
+
+1.5 "Licensee" means any individual, entity, organization, or company using
+    the Software under this license.
+
+1.6 "Original Creator" means 2c9jj9rmgj-code and their legal representatives.
+
+1.7 "Gross Revenue" means all money, fees, subscriptions, payments, and
+    compensation received by Licensee from any source related to products,
+    services, or offerings that incorporate or rely on the Software,
+    excluding documented refunds and taxes.
+
+1.8 "Custom License Agreement" means a separately negotiated, written, and
+    signed commercial license agreement between the Original Creator and
+    Licensee that modifies, alters, or supersedes the terms outlined in
+    Section 4 of this license.
+
+================================================================================
+2. GRANT OF LICENSE
+================================================================================
+
+2.1 NON-COMMERCIAL USE (FREE LICENSE)
+
+The Original Creator hereby grants Licensee a worldwide, royalty-free,
+non-exclusive license to use, copy, modify, and distribute the Software
+for non-commercial purposes only, subject to the following conditions:
+
+    a) Licensee must provide clear attribution to the Original Creator
+       (2c9jj9rmgj-code) in all copies and derivative works
+    b) Licensee must include this license in all distributions
+    c) Licensee must not remove or alter copyright notices
+    d) Licensee may not use the Software for any commercial purpose
+
+2.2 OPEN-SOURCE PROJECTS (FREE LICENSE)
+
+The Original Creator hereby grants a worldwide, royalty-free, non-exclusive
+license to use, modify, and distribute the Software as part of open-source
+projects, subject to the following conditions:
+
+    a) The project must be distributed under an OSI-approved open-source license
+    b) Full source code must be publicly available
+    c) Licensee must provide clear attribution to Original Creator
+    d) Licensee must include this license or link to it in the project repository
+    e) The open-source project must not be controlled by or benefit a for-profit
+       commercial entity that uses it as a core revenue-generating component
+
+2.3 COMMERCIAL USE (PAID LICENSE REQUIRED)
+
+Any Commercial Use of the Software is PROHIBITED unless Licensee enters into
+a separate written Commercial License Agreement with the Original Creator and
+pays all required royalties and fees as outlined in Section 4.
+
+================================================================================
+3. COMMERCIAL LICENSE REQUIREMENTS
+================================================================================
+
+3.1 If Licensee has used, is using, or plans to use the Software for any
+    Commercial Use (whether previously or currently), Licensee must:
+
+    a) IMMEDIATELY cease distribution and use of the Software under this
+       free license
+    b) IMMEDIATELY contact the Original Creator at the contact information
+       in Section 12 to enter into a Commercial License Agreement
+    c) Declare all past, present, and future use of the Software
+    d) Agree to retroactive royalty payments for all commercial use that
+       has occurred since first deployment
+
+3.2 Licensee acknowledges that using the Software commercially without a
+    proper Commercial License Agreement is a violation of this license and
+    constitutes copyright infringement.
+
+3.3 The Original Creator reserves the right to audit Licensee's books and
+    records to verify compliance with royalty payment obligations.
+
+================================================================================
+4. ROYALTY STRUCTURE & PAYMENT TERMS
+================================================================================
+
+4.1 ROYALTY RATE FOR COMMERCIAL USE
+
+All Licensees engaged in Commercial Use must pay royalties as follows:
+
+    TIERED ROYALTY STRUCTURE:
+    
+    Tier 1: 5% of Gross Revenue
+    - Applies to the first $100,000 in annual Gross Revenue generated from
+      products/services using the Software
+    
+    Tier 2: 7% of Gross Revenue
+    - Applies to Gross Revenue between $100,001 and $1,000,000 annually
+    
+    Tier 3: 10% of Gross Revenue
+    - Applies to all Gross Revenue exceeding $1,000,000 annually
+
+4.2 FLAT ANNUAL LICENSE FEE
+
+In addition to royalty payments, Licensee must pay a minimum annual flat fee
+based on the tiered structure below. Whichever amount is greater (the tiered 
+percentage of revenue OR the corresponding flat annual fee) must be paid annually:
+
+    Tier 1 Flat Fee: $50,000/year minimum
+    - Applies when annual Gross Revenue is $0 - $100,000
+    
+    Tier 2 Flat Fee: $250,000/year minimum
+    - Applies when annual Gross Revenue is $100,001 - $1,000,000
+    
+    Tier 3 Flat Fee: $500,000/year minimum
+    - Applies when annual Gross Revenue is $1,000,001 - $1,500,000
+    
+    Tier 4 Flat Fee: $500,000 PLUS 50% of all revenue exceeding $1,500,000
+    - Applies when annual Gross Revenue exceeds $1,500,000
+    - Example: If revenue is $2,000,000, the fee is $500,000 + (50% of $500,000) = $750,000
+
+    The flat annual fee is separate from and in addition to percentage-based
+    royalties. Licensee pays whichever amount is greater: the percentage-based
+    royalty calculation OR the flat fee.
+
+4.3 RETROACTIVE PAYMENT OBLIGATION
+
+If Licensee has already used the Software commercially WITHOUT a license:
+
+    a) Licensee must immediately pay an UPFRONT DISCOVERY FEE of $50,000
+    
+    b) Licensee must immediately pay 50% of all Gross Revenue generated from 
+       commercial use since first deployment (or best estimate)
+    
+    c) Interest accrues at 25% annually on all unpaid amounts from the date
+       of first commercial use
+    
+    d) Licensee must provide a full accounting of all past revenue generated
+       from the Software, certified by an independent accountant
+    
+    e) Failure to disclose retroactive use will result in FIVE TIMES (5x) 
+       the penalty on all owed royalties, plus legal fees and court costs
+
+    RETROACTIVE PAYMENT EXAMPLE:
+    - If Licensee made $100,000 in revenue using the Software:
+      * $50,000 upfront discovery fee (non-negotiable)
+      * $50,000 (50% of $100,000 revenue)
+      * 25% annual interest on the $50,000 from date of first use
+      * Total owed = $100,000+ (depending on how long they used it)
+
+4.4 PAYMENT SCHEDULE
+
+    a) Royalties are calculated and due bimonthly (every 60 days)
+    b) Licensee must submit a Royalty Report along with each payment
+    c) Reports must include:
+       - Total Gross Revenue for the 60-day period
+       - Breakdown of revenue sources using the Software
+       - Calculation of royalties owed
+       - Any refunds or credits claimed
+    d) Payments are due within 30 days of the 60-day reporting period end
+    e) Late payments accrue interest at 2% per month (24% annually)
+
+4.5 MINIMUM COMMITMENT
+
+Licensee commits to pay the applicable flat annual fee every year the 
+Commercial License is in effect, regardless of revenue generated. Flat fees
+are non-refundable.
+
+================================================================================
+4.6 CUSTOM LICENSE AGREEMENT CLAUSE
+================================================================================
+
+4.6.1 PRICE MODIFICATION ONLY WITH SIGNED AGREEMENT
+
+The terms, fees, royalty rates, and payment obligations outlined in Section 4
+of this license are FIXED and CANNOT be modified, changed, reduced, increased,
+or negotiated except through a separate, custom, written, and legally binding
+Commercial License Agreement between the Original Creator and Licensee.
+
+4.6.2 MODIFICATIONS REQUIRE DOCUMENTED CONSENT
+
+Any modification to the pricing structure, royalty rates, flat fees, or payment
+terms outlined in this license MUST:
+
+    a) Be submitted to the Original Creator in writing
+    b) Be negotiated and agreed upon by both parties
+    c) Be documented in a separate Custom License Agreement
+    d) Be signed and dated by an authorized representative of the Original Creator
+       (2c9jj9rmgj-code or designated legal representative)
+    e) Include explicit language identifying what terms are being modified
+    f) Become effective only upon the date both parties have executed the agreement
+
+4.6.3 DEFAULT TERMS APPLY UNTIL CUSTOM AGREEMENT IS SIGNED
+
+Until a Custom License Agreement is executed and signed by the Original Creator,
+all default terms outlined in Section 4 (Sections 4.1 through 4.5) apply in
+their entirety with NO exceptions, modifications, or alternatives.
+
+4.6.4 CUSTOM AGREEMENT TAKES PRECEDENCE
+
+If a Custom License Agreement has been negotiated and signed between the Original
+Creator and Licensee, that Custom License Agreement supersedes the default terms
+outlined in Section 4, but ONLY for the specific terms explicitly modified in
+the Custom License Agreement. All other terms from this base license remain in
+full force and effect.
+
+4.6.5 NO UNILATERAL MODIFICATION
+
+Licensee may not:
+    a) Unilaterally change, reduce, or modify any pricing or payment terms
+    b) Claim an agreement exists without signed documentation from the Original Creator
+    c) Rely on verbal agreements, emails without formal signatures, or informal 
+       communications as a basis for modifying these terms
+    d) Treat any negotiation or discussion as a binding modification
+
+4.6.6 DISPUTES OVER PRICING
+
+If Licensee disputes the pricing structure or payment obligations, Licensee must:
+    a) Contact the Original Creator immediately at the contact information in Section 12
+    b) Submit a formal written request for negotiation
+    c) Await written response from the Original Creator
+    d) Not cease payments of the default terms while negotiation is ongoing
+    e) Understand that non-payment during negotiation may be treated as breach of
+       this license
+
+4.6.7 RENEWAL AND MODIFICATION
+
+Any modifications to this agreement, including price changes, term extensions, or
+adjustments to royalty rates, must be formalized in writing with proper signature
+authority before the modification takes effect. Licensee will be provided written
+notice of any pricing changes or modifications at least 60 days before they take effect,
+except in cases where Licensee has breached the agreement.
+
+================================================================================
+5. ATTRIBUTION & INTEGRITY
+================================================================================
+
+5.1 Licensee must:
+    a) Clearly attribute all use of the Software to "Original Creator: 2c9jj9rmgj-code"
+    b) Include a copyright notice in all distributions and documentation
+    c) Provide a link to the original repository or this license
+    d) Not remove, obscure, or alter any attribution or copyright notices
+
+5.2 Licensee may not claim the Software, or any part of it, as their own original work.
+
+5.3 Licensee may not represent the Software as proprietary technology they created.
+
+================================================================================
+6. RESTRICTION ON COMMERCIAL USE WITHOUT LICENSE
+================================================================================
+
+6.1 PROHIBITED CONDUCT
+
+Licensee is expressly prohibited from:
+
+    a) Selling, licensing, or sublicensing the Software or any derivative works
+       without a Commercial License Agreement
+    
+    b) Using the Software in AI/ML models that are sold, monetized, or offered
+       as a service without paying royalties
+    
+    c) Incorporating the Software into proprietary products without licensing
+    
+    d) Claiming that code derived from the Software is proprietary or
+       originally created by Licensee
+    
+    e) Hiding, obfuscating, or concealing the use of the Software in commercial
+       products
+    
+    f) Using the Software in any revenue-generating venture without disclosure
+       and payment
+
+6.2 VIOLATIONS
+
+Any violation of this section constitutes copyright infringement and breach
+of contract. The Original Creator reserves the right to:
+
+    a) Demand immediate cessation of commercial use
+    b) Pursue legal action for damages
+    c) Seek injunctive relief to stop unlicensed commercial use
+    d) Recover attorneys' fees and court costs
+    e) Claim statutory damages up to $150,000 per violation
+    f) Pursue criminal charges if applicable
+
+================================================================================
+7. INTELLECTUAL PROPERTY & ATTRIBUTION
+================================================================================
+
+7.1 OWNERSHIP
+
+The Original Creator retains all intellectual property rights, including
+copyright, patent, trademark, and trade secret rights in the Software.
+
+7.2 NO TRANSFER OF OWNERSHIP
+
+This license does not transfer ownership of the Software to Licensee.
+Licensee receives only a limited license to use the Software as specified.
+
+7.3 ATTRIBUTION REQUIREMENT
+
+All copies, modifications, and derivative works must include:
+
+    "Based on or derived from software created by 2c9jj9rmgj-code
+     Original Repository: https://github.com/2c9jj9rmgj-code/Dune-Comeback-gold-digger-2
+     This software includes code subject to the Custom Royalty License
+     by 2c9jj9rmgj-code. See LICENSE for terms."
+
+================================================================================
+8. WARRANTY DISCLAIMER
+================================================================================
+
+8.1 THE SOFTWARE IS PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, EXPRESS
+    OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
+    MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE, AND
+    NONINFRINGEMENT.
+
+8.2 THE ORIGINAL CREATOR DOES NOT WARRANT THAT THE SOFTWARE WILL MEET
+    LICENSEE'S REQUIREMENTS, OPERATE UNINTERRUPTED, OR BE ERROR-FREE.
+
+8.3 LICENSEE ASSUMES ALL RISK AND RESPONSIBILITY FOR USE OF THE SOFTWARE.
+
+================================================================================
+9. LIMITATION OF LIABILITY
+================================================================================
+
+9.1 IN NO EVENT SHALL THE ORIGINAL CREATOR BE LIABLE FOR ANY DIRECT,
+    INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, OR PUNITIVE DAMAGES,
+    INCLUDING LOST PROFITS, LOST DATA, OR BUSINESS INTERRUPTION, EVEN IF
+    ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
 
-    (b) that the Covered Software was made available under the terms of
-        version 1.1 or earlier of the License, but not also under the
-        terms of a Secondary License.
+9.2 LICENSEE'S SOLE REMEDY IS TO DISCONTINUE USE OF THE SOFTWARE.
+
+================================================================================
+10. TERMINATION
+================================================================================
+
+10.1 This license is perpetual for non-commercial and open-source uses,
+     provided Licensee complies with all terms.
+
+10.2 For Commercial Use, this license terminates:
+     a) Upon 30 days written notice if Licensee ceases all commercial use
+     b) Immediately if Licensee violates any term of this agreement
+     c) Immediately if Licensee fails to pay royalties within 15 days of due date
 
-1.6. "Executable Form"
-    means any form of the work other than Source Code Form.
+10.3 Upon termination of a Commercial License:
+     a) Licensee must immediately cease all commercial use of the Software
+     b) Licensee must pay all outstanding royalties and fees
+     c) Licensee must destroy all copies of the Software (unless reverting
+        to non-commercial use under Section 2.1)
+     d) Licensee must remove the Software from all commercial products within 90 days
 
-1.7. "Larger Work"
-    means a work that combines Covered Software with other material, in
-    a separate file or files, that is not Covered Software.
+10.4 Termination does not relieve Licensee of the obligation to pay all
+     royalties and fees owed for past use.
 
-1.8. "License"
-    means this document.
+================================================================================
+11. AUDIT & ENFORCEMENT
+================================================================================
 
-1.9. "Licensable"
-    means having the right to grant, to the maximum extent possible,
-    whether at the time of the initial grant or subsequently, any and
-    all of the rights conveyed by this License.
+11.1 AUDIT RIGHTS
 
-1.10. "Modifications"
-    means any of the following:
+The Original Creator has the right to audit Licensee's books, records, and
+systems to verify:
+    a) Accurate calculation and reporting of Gross Revenue
+    b) Proper payment of all royalties and fees
+    c) Compliance with this license terms
 
-    (a) any file in Source Code Form that results from an addition to,
-        deletion from, or modification of the contents of Covered
-        Software; or
+11.2 AUDIT PROCEDURE
 
-    (b) any new file in Source Code Form that contains any Covered
-        Software.
+    a) Original Creator must provide 30 days written notice
+    b) Audit must be conducted by an independent certified public accountant
+    c) Audit will be scheduled during normal business hours
+    d) If audit reveals underpayment exceeding 5%, Licensee must pay:
+       - Full amount owed plus interest (25% annually)
+       - Audit costs and professional fees
+       - Penalty of FIVE TIMES (5x) the underpaid amount
 
-1.11. "Patent Claims" of a Contributor
-    means any patent claim(s), including without limitation, method,
-    process, and apparatus claims, in any patent Licensable by such
-    Contributor that would be infringed, but for the grant of the
-    License, by the making, using, selling, offering for sale, having
-    made, import, or transfer of either its Contributions or its
-    Contributor Version.
+11.3 ENFORCEMENT
 
-1.12. "Secondary License"
-    means either the GNU General Public License, Version 2.0, the GNU
-    Lesser General Public License, Version 2.1, the GNU Affero General
-    Public License, Version 3.0, or any later versions of those
-    licenses.
+The Original Creator may pursue any legal remedy available, including but
+not limited to civil litigation, injunctive relief, and damages claims.
 
-1.13. "Source Code Form"
-    means the form of the work preferred for making modifications.
+================================================================================
+12. CONTACT FOR COMMERCIAL LICENSING
+================================================================================
 
-1.14. "You" (or "Your")
-    means an individual or a legal entity exercising rights under this
-    License. For legal entities, "You" includes any entity that
-    controls, is controlled by, or is under common control with You. For
-    purposes of this definition, "control" means (a) the power, direct
-    or indirect, to cause the direction or management of such entity,
-    whether by contract or otherwise, or (b) ownership of more than
-    fifty percent (50%) of the outstanding shares or beneficial
-    ownership of such entity.
+To obtain a Commercial License Agreement, request a license amendment,
+report usage, or discuss terms:
 
-2. License Grants and Conditions
---------------------------------
+    Email 1: patsayjak3585@hotmail.com
+    Email 2: patsoddnends@gmail.com
+    GitHub: https://github.com/2c9jj9rmgj-code
+    Repository: https://github.com/2c9jj9rmgj-code/Dune-Comeback-gold-digger-2
 
-2.1. Grants
+Do not use this software commercially without first contacting the
+Original Creator and establishing a Commercial License Agreement.
 
-Each Contributor hereby grants You a world-wide, royalty-free,
-non-exclusive license:
+================================================================================
+13. GENERAL PROVISIONS
+================================================================================
 
-(a) under intellectual property rights (other than patent or trademark)
-    Licensable by such Contributor to use, reproduce, make available,
-    modify, display, perform, distribute, and otherwise exploit its
-    Contributions, either on an unmodified basis, with Modifications, or
-    as part of a Larger Work; and
+13.1 SEVERABILITY
 
-(b) under Patent Claims of such Contributor to make, use, sell, offer
-    for sale, have made, import, and otherwise transfer either its
-    Contributions or its Contributor Version.
+If any provision of this license is held invalid or unenforceable, all other
+provisions remain in full force and effect.
 
-2.2. Effective Date
+13.2 ENTIRE AGREEMENT
 
-The licenses granted in Section 2.1 with respect to any Contribution
-become effective for each Contribution on the date the Contributor first
-distributes such Contribution.
+This license constitutes the entire agreement between Original Creator and
+Licensee regarding the Software, except where superseded by a Custom License
+Agreement as outlined in Section 4.6.
 
-2.3. Limitations on Grant Scope
+13.3 MODIFICATIONS
 
-The licenses granted in this Section 2 are the only rights granted under
-this License. No additional rights or licenses will be implied from the
-distribution or licensing of Covered Software under this License.
-Notwithstanding Section 2.1(b) above, no patent license is granted by a
-Contributor:
+The Original Creator reserves the right to modify this license for future
+versions of the Software. Modifications do not retroactively apply to past use
+without explicit written consent from all affected parties.
 
-(a) for any code that a Contributor has removed from Covered Software;
-    or
+13.4 GOVERNING LAW
 
-(b) for infringements caused by: (i) Your and any other third party's
-    modifications of Covered Software, or (ii) the combination of its
-    Contributions with other software (except as part of its Contributor
-    Version); or
+This license shall be governed by the laws of the United States, without
+regard to conflict of law principles.
 
-(c) under Patent Claims infringed by Covered Software in the absence of
-    its Contributions.
-
-This License does not grant any rights in the trademarks, service marks,
-or logos of any Contributor (except as may be necessary to comply with
-the notice requirements in Section 3.4).
-
-2.4. Subsequent Licenses
-
-No Contributor makes additional grants as a result of Your choice to
-distribute the Covered Software under a subsequent version of this
-License (see Section 10.2) or under the terms of a Secondary License (if
-permitted under the terms of Section 3.3).
-
-2.5. Representation
-
-Each Contributor represents that the Contributor believes its
-Contributions are its original creation(s) or it has sufficient rights
-to grant the rights to its Contributions conveyed by this License.
-
-2.6. Fair Use
-
-This License is not intended to limit any rights You have under
-applicable copyright doctrines of fair use, fair dealing, or other
-equivalents.
-
-2.7. Conditions
-
-Sections 3.1, 3.2, 3.3, and 3.4 are conditions of the licenses granted
-in Section 2.1.
-
-3. Responsibilities
--------------------
-
-3.1. Distribution of Source Form
-
-All distribution of Covered Software in Source Code Form, including any
-Modifications that You create or to which You contribute, must be under
-the terms of this License. You must inform recipients that the Source
-Code Form of the Covered Software is governed by the terms of this
-License, and how they can obtain a copy of this License. You may not
-attempt to alter or restrict the recipients' rights in the Source Code
-Form.
-
-3.2. Distribution of Executable Form
-
-If You distribute Covered Software in Executable Form then:
-
-(a) such Covered Software must also be made available in Source Code
-    Form, as described in Section 3.1, and You must inform recipients of
-    the Executable Form how they can obtain a copy of such Source Code
-    Form by reasonable means in a timely manner, at a charge no more
-    than the cost of distribution to the recipient; and
-
-(b) You may distribute such Executable Form under the terms of this
-    License, or sublicense it under different terms, provided that the
-    license for the Executable Form does not attempt to limit or alter
-    the recipients' rights in the Source Code Form under this License.
-
-3.3. Distribution of a Larger Work
-
-You may create and distribute a Larger Work under terms of Your choice,
-provided that You also comply with the requirements of this License for
-the Covered Software. If the Larger Work is a combination of Covered
-Software with a work governed by one or more Secondary Licenses, and the
-Covered Software is not Incompatible With Secondary Licenses, this
-License permits You to additionally distribute such Covered Software
-under the terms of such Secondary License(s), so that the recipient of
-the Larger Work may, at their option, further distribute the Covered
-Software under the terms of either this License or such Secondary
-License(s).
-
-3.4. Notices
-
-You may not remove or alter the substance of any license notices
-(including copyright notices, patent notices, disclaimers of warranty,
-or limitations of liability) contained within the Source Code Form of
-the Covered Software, except that You may alter any license notices to
-the extent required to remedy known factual inaccuracies.
-
-3.5. Application of Additional Terms
-
-You may choose to offer, and to charge a fee for, warranty, support,
-indemnity or liability obligations to one or more recipients of Covered
-Software. However, You may do so only on Your own behalf, and not on
-behalf of any Contributor. You must make it absolutely clear that any
-such warranty, support, indemnity, or liability obligation is offered by
-You alone, and You hereby agree to indemnify every Contributor for any
-liability incurred by such Contributor as a result of warranty, support,
-indemnity or liability terms You offer. You may include additional
-disclaimers of warranty and limitations of liability specific to any
-jurisdiction.
-
-4. Inability to Comply Due to Statute or Regulation
----------------------------------------------------
-
-If it is impossible for You to comply with any of the terms of this
-License with respect to some or all of the Covered Software due to
-statute, judicial order, or regulation then You must: (a) comply with
-the terms of this License to the maximum extent possible; and (b)
-describe the limitations and the code they affect. Such description must
-be placed in a text file included with all distributions of the Covered
-Software under this License. Except to the extent prohibited by statute
-or regulation, such description must be sufficiently detailed for a
-recipient of ordinary skill to be able to understand it.
-
-5. Termination
---------------
-
-5.1. The rights granted under this License will terminate automatically
-if You fail to comply with any of its terms. However, if You become
-compliant, then the rights granted under this License from a particular
-Contributor are reinstated (a) provisionally, unless and until such
-Contributor explicitly and finally terminates Your grants, and (b) on an
-ongoing basis, if such Contributor fails to notify You of the
-non-compliance by some reasonable means prior to 60 days after You have
-come back into compliance. Moreover, Your grants from a particular
-Contributor are reinstated on an ongoing basis if such Contributor
-notifies You of the non-compliance by some reasonable means, this is the
-first time You have received notice of non-compliance with this License
-from such Contributor, and You become compliant prior to 30 days after
-Your receipt of the notice.
-
-5.2. If You initiate litigation against any entity by asserting a patent
-infringement claim (excluding declaratory judgment actions,
-counter-claims, and cross-claims) alleging that a Contributor Version
-directly or indirectly infringes any patent, then the rights granted to
-You by any and all Contributors for the Covered Software under Section
-2.1 of this License shall terminate.
-
-5.3. In the event of termination under Sections 5.1 or 5.2 above, all
-end user license agreements (excluding distributors and resellers) which
-have been validly granted by You or Your distributors under this License
-prior to termination shall survive termination.
-
-************************************************************************
-*                                                                      *
-*  6. Disclaimer of Warranty                                           *
-*  -------------------------                                           *
-*                                                                      *
-*  Covered Software is provided under this License on an "as is"       *
-*  basis, without warranty of any kind, either expressed, implied, or  *
-*  statutory, including, without limitation, warranties that the       *
-*  Covered Software is free of defects, merchantable, fit for a        *
-*  particular purpose or non-infringing. The entire risk as to the     *
-*  quality and performance of the Covered Software is with You.        *
-*  Should any Covered Software prove defective in any respect, You     *
-*  (not any Contributor) assume the cost of any necessary servicing,   *
-*  repair, or correction. This disclaimer of warranty constitutes an   *
-*  essential part of this License. No use of any Covered Software is   *
-*  authorized under this License except under this disclaimer.         *
-*                                                                      *
-************************************************************************
-
-************************************************************************
-*                                                                      *
-*  7. Limitation of Liability                                          *
-*  --------------------------                                          *
-*                                                                      *
-*  Under no circumstances and under no legal theory, whether tort      *
-*  (including negligence), contract, or otherwise, shall any           *
-*  Contributor, or anyone who distributes Covered Software as          *
-*  permitted above, be liable to You for any direct, indirect,         *
-*  special, incidental, or consequential damages of any character      *
-*  including, without limitation, damages for lost profits, loss of    *
-*  goodwill, work stoppage, computer failure or malfunction, or any    *
-*  and all other commercial damages or losses, even if such party      *
-*  shall have been informed of the possibility of such damages. This   *
-*  limitation of liability shall not apply to liability for death or   *
-*  personal injury resulting from such party's negligence to the       *
-*  extent applicable law prohibits such limitation. Some               *
-*  jurisdictions do not allow the exclusion or limitation of           *
-*  incidental or consequential damages, so this exclusion and          *
-*  limitation may not apply to You.                                    *
-*                                                                      *
-************************************************************************
-
-8. Litigation
--------------
-
-Any litigation relating to this License may be brought only in the
-courts of a jurisdiction where the defendant maintains its principal
-place of business and such litigation shall be governed by laws of that
-jurisdiction, without reference to its conflict-of-law provisions.
-Nothing in this Section shall prevent a party's ability to bring
-cross-claims or counter-claims.
-
-9. Miscellaneous
-----------------
-
-This License represents the complete agreement concerning the subject
-matter hereof. If any provision of this License is held to be
-unenforceable, such provision shall be reformed only to the extent
-necessary to make it enforceable. Any law or regulation which provides
-that the language of a contract shall be construed against the drafter
-shall not be used to construe this License against a Contributor.
-
-10. Versions of the License
----------------------------
-
-10.1. New Versions
-
-Mozilla Foundation is the license steward. Except as provided in Section
-10.3, no one other than the license steward has the right to modify or
-publish new versions of this License. Each version will be given a
-distinguishing version number.
-
-10.2. Effect of New Versions
-
-You may distribute the Covered Software under the terms of the version
-of the License under which You originally received the Covered Software,
-or under the terms of any subsequent version published by the license
-steward.
-
-10.3. Modified Versions
-
-If you create software not governed by this License, and you want to
-create a new license for such software, you may create and use a
-modified version of this License if you rename the license and remove
-any references to the name of the license steward (except to note that
-such modified license differs from this License).
-
-10.4. Distributing Source Code Form that is Incompatible With Secondary
-Licenses
-
-If You choose to distribute Source Code Form that is Incompatible With
-Secondary Licenses under the terms of this version of the License, the
-notice described in Exhibit B of this License must be attached.
-
-Exhibit A - Source Code Form License Notice
--------------------------------------------
-
-  This Source Code Form is subject to the terms of the Mozilla Public
-  License, v. 2.0. If a copy of the MPL was not distributed with this
-  file, You can obtain one at https://mozilla.org/MPL/2.0/.
-
-If it is not possible or desirable to put the notice in a particular
-file, then You may include the notice in a location (such as a LICENSE
-file in a relevant directory) where a recipient would be likely to look
-for such a notice.
-
-You may add additional accurate notices of copyright ownership.
-
-Exhibit B - "Incompatible With Secondary Licenses" Notice
----------------------------------------------------------
-
-  This Source Code Form is "Incompatible With Secondary Licenses", as
-  defined by the Mozilla Public License, v. 2.0.
+13.5 NO WAIVER
+
+Failure to enforce any right under this license does not constitute a waiver
+of that right.
+
+13.6 INDEPENDENT CONTRACTORS
+
+Original Creator and Licensee are independent contractors. This license does
+not create a partnership, joint venture, or agency relationship.
+
+================================================================================
+14. ACCEPTANCE
+================================================================================
+
+By using the Software, Licensee accepts and agrees to be bound by all terms
+and conditions of this Custom Royalty License Agreement.
+
+If you do not agree to these terms, DO NOT USE THE SOFTWARE.
+
+================================================================================
+
+ORIGINAL CREATOR: 2c9jj9rmgj-code
+LICENSE VERSION: 1.0
+EFFECTIVE DATE: September 30, 2026
+
+For questions or to negotiate commercial licensing terms:
+Contact: patsayjak3585@hotmail.com or patsoddnends@gmail.com
+
+================================================================================
